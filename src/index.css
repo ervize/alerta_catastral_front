@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Source+Sans+Pro:wght@300&family=Ubuntu:wght@300&display=swap');
+
+*{
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#root {
+    /* height: 100%;    */
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container {
+     /* height: 100%;    */
+  font-family: 'Ubuntu', sans-serif;
+}
+
+a{
+  color:white;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color:white;
+}
+
+  /* html, body {
+  height: 100% !important;
+}   */
+
+/* @media (min-height: 700px) {
+  #root {
+    height: 100%;
+  }
+  .container {
+    height: 100%;
+  }
+  html, body {
+    height: 100% !important;
+  }
+} */

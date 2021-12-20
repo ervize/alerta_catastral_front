@@ -1,0 +1,39 @@
+
+main {
+    padding: 10px;
+    height: 100%;
+    background: rgb(95, 186, 233);
+    background: linear-gradient(0deg, rgba(95, 186, 233, 1) 0%, rgba(3, 24, 23, 0.4066001400560224) 0%);
+    background-image: url('../../../assets/images/sullana.jpg');
+    background-size: cover;
+}
+
+.alerta {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+}
+
+.alertatitulo {
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 15px;
+}
+
+.alertatexto {
+    font-size: 14px;
+    text-align: justify;
+    color: white;
+}
+
+.fondo {
+    background: rgb(95,186,233);
+    background: linear-gradient(0deg, rgba(95,186,233,1) 0%, rgba(3,24,23,0.5102415966386555) 0%);
+    padding:5px 0 5px 0;
+    border-radius: 10px;
+    height:200px;
+}

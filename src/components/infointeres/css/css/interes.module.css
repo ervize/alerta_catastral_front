@@ -1,0 +1,23 @@
+.infointeres {
+  color: white;
+}
+
+.infointeres a {
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+}
+
+.infointeres div {
+  font-weight: bold;
+  padding: 5px 0 5px 10px;
+}
+
+.fondo {
+  background: #5fbae9;
+  background: linear-gradient(0deg, #5fbae9 0%, rgba(3, 24, 23, 0.510242) 0%);
+  padding: 5px 0 5px 0;
+  border-radius: 10px;
+  height: 100%;
+}
+/*# sourceMappingURL=interes.module.css.map */

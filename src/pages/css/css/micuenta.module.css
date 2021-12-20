@@ -1,0 +1,7 @@
+.fondo {
+  background: #5fbae9;
+  background: linear-gradient(0deg, #5fbae9 0%, rgba(3, 24, 23, 0.4066) 0%);
+  background-image: url("../../assets/images/sullana.jpg");
+  background-size: cover;
+}
+/*# sourceMappingURL=micuenta.module.css.map */

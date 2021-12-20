@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAC;EAEH,UAAU,EAAE,OAAO;EACnB,SAAS,EAAE,IAAI;CAEhB",
+    "sources": [
+        "../notify.module.scss"
+    ],
+    "names": [],
+    "file": "notify.module.css"
+}
